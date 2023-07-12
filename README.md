@@ -5,7 +5,7 @@
 
 - ⌨️ Desarrolladora Full Stack
 - :speech_balloon: Contáctame en ffajrec@gmail.com
-- :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/fernanda-fajre-3a4422273/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Fernanda-Fajre" height="30" width="25"/></a>
+- :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/fernanda-fajre/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Fernanda-Fajre" height="30" width="25"/></a>
 
 <h3 align="left">Lenguajes y Herramientas</h3>
     <p align="left"> <a href="#" target="_blank"> <img
