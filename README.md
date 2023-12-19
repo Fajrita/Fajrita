@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Fernanda Fajre </h1>
+<h1 align="center">Fernanda Fajre </h1>
 <h3 align="center">Diseñadora de videojuegos y Desarrolladora Full Stack </h3>
 
 ### Acerca de mí:
