@@ -1,9 +1,9 @@
 <h1 align="center">Hola, soy Fernanda Fajre </h1>
-<h3 align="center">Soy una desarrolladora Full Stack, de Chile </h3>
+<h3 align="center">Diseñadora de videojuegos y Desarrolladora Full Stack </h3>
 
 ### Acerca de mí:
 
-- ⌨️ Desarrolladora Full Stack
+- ⌨️ Diseñadora de videojuegos y Desarrolladora Full Stack
 - :speech_balloon: Contáctame en ffajrec@gmail.com
 - :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/fernanda-fajre/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Fernanda-Fajre" height="30" width="25"/></a>
 
