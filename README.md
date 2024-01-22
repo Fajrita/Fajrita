@@ -21,6 +21,8 @@
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"
                 width="40" height="40" margin-right="3px"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
                 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"
-                width="40" height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+                width="40" height="40" margin-right="3px"/> </a> <a href="https://www.unity.com/" target="_blank"> <img
+                src="https://upload.vectorlogo.zone/logos/unity3d/images/562cc0fa-a6c4-45a3-8412-ef8bce616751.svg" alt="spring" width="40"
+                height="40" margin-right="3px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
             target="_blank"></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fajrita&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt=Fajrita" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fajrita&show_icons=true&locale=en&theme=tokyonight" alt="Fajrita" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fajrita&theme=dark" alt="Fajrita" /></p>
