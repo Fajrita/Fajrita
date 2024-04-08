@@ -4,6 +4,7 @@
 ### Acerca de mí:
 
 - ⌨️ Diseñadora de videojuegos y Desarrolladora Full Stack
+- Portafolio: <a href="https://www.https://fajrita.github.io">fajrita.github</a>
 - :speech_balloon: Contáctame en ffajrec@gmail.com
 - :link: Conéctate conmigo: <a href="https://www.linkedin.com/in/fernanda-fajre/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="Fernanda-Fajre" height="30" width="25"/></a>
 
